@@ -17,6 +17,7 @@ function sendAndAppend() {
     if (mathObject.operator === null) {
         resetCalculator();
         alert('Please select a valid operator')
+        return;
     }
     mathObject.intOne = Number($('#inputOne').val());
     mathObject.intTwo = Number($('#inputTwo').val());

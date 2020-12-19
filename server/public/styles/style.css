@@ -1,3 +1,37 @@
 body {
     background-color: blanchedalmond;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+div{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    margin: auto;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+::placeholder{
+    font-family: 'Oswald', sans-serif;
+}
+
+button{
+    border: none;
+    border-radius: 0;
+    color: white;
+    background-color: black;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+    font-weight: bolder;
+    height: 30px;
+    width: 30px;
+}
+
+#target{
+    flex-direction: column;
+    font-weight: 800;
 }
