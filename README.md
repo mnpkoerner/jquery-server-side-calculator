@@ -21,12 +21,12 @@ Welcome to the Pocket Calculator! This is no graphing behemoth you'll find in th
 
  ## Installation
 
- 1 - Fork and clone the repo into an easily accessible directory
- 2 - Open the repo in your IDE
- 3 - In your terminal, type 'npm start' (this will start your server if node.js is installed)
- 4 - In your browswer, go to localhost:5000 to find the pocket calculator!
- 5 - Do all the math you want! You results will be saved in the server until you shut it down
- 6 - Don't feel embarassed if you don't remember your times tables... nobody does!
+ 1. Fork and clone the repo into an easily accessible directory
+ 1. Open the repo in your IDE
+ 1. In your terminal, type 'npm start' (this will start your server if node.js is installed)
+ 1. In your browswer, go to localhost:5000 to find the pocket calculator!
+ 1. Do all the math you want! You results will be saved in the server until you shut it down
+ 1. Don't feel embarassed if you don't remember your times tables... nobody does!
 
  ## Usage
 
