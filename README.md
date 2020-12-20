@@ -1,9 +1,8 @@
-# Project Name
+# Pocket Calculator
 
-[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md
 
-## Description
-# Duration - Weekend Challenge
+# Description
+## Duration - Weekend Challenge
 
 Welcome to the Pocket Calculator! This is no graphing behemoth you'll find in the basement of Standford, it's (almost) like the one's the bank used to give away for free! You can take two numbers and divide, multiply, add, or substract them! The restults will be logged on your screen, and your whole history will stay logged!
 
